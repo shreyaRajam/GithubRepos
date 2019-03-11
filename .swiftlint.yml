@@ -1,0 +1,10 @@
+line_length:
+  ignores_comments: true
+  ignores_urls: true
+  ignores_function_declarations: true
+  warning: 250
+  error: 400
+disabled_rules:
+# - force_cast
+# - line_length
+- multiple_closures_with_trailing_closure  
