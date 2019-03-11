@@ -22,7 +22,7 @@ xcuserdata/
 
 ## Other
 *.xccheckout
-*.xcworkspace/
+# *.xcworkspace/
 *.moved-aside
 *.xcuserstate
 *.xcscmblueprint
